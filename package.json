@@ -1,0 +1,23 @@
+{
+  "name": "logger-factory",
+  "version": "1.0.0",
+  "description": "Create a log system",
+  "main": "./lib/index.js",
+  "bin": {
+    "logger-factory": "bin/letterMachine.js" 
+  },
+  "scripts": {
+    "test": "echo \"Error: no test\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zionscript/logger-factory.git"
+  },
+  "keywords": ["logger", "utils", "development"],
+  "author": "Solosia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zionscript/logger-factory/issues"
+  },
+  "homepage": "https://github.com/zionscript/logger-factory#readme"
+}
